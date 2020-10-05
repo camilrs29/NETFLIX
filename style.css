@@ -1,0 +1,113 @@
+body{
+	margin: 0;
+	background-color: black;
+}
+.video{
+	width: 100%;
+	height: 100%;
+}
+.contenedor{
+	position: absolute;
+	bottom:50px;
+	left: 30px;
+}
+.barra{
+	width: 100%;
+}
+.opcion-1{
+	display: inline-flex;
+	background-color: black;
+	width: 50%;
+	float: left;
+}
+.opcion-2{
+	margin-top: 15px;
+	background-color: black;
+	height: 40px;
+	width: 50%;
+	text-align: center;
+	float: right;
+}
+.net{
+	padding-left: 10px;
+	font-family: "Calibri";
+	font-weight: bold;
+	font-size: 20px;
+	color: red
+}
+.letra{
+	text-decoration: none;
+	padding-left: 20px;
+	margin-top: 25px;
+	font-family: "Calibri";
+	font-weight: bold;
+	font-size: 15px;
+	color: white;
+}
+.letra-2{
+	text-decoration: none;
+	padding-left: 20px;
+	font-family: "Calibri";
+	font-weight: bold;
+	font-size: 15px;
+	color: white;
+}
+.lupa{
+	width: 20px;
+}
+.gif{
+	width: 23px;
+}
+.noti{
+	width: 23px;
+}
+.perfil{
+	width: 20px;
+	padding-right: 20px;
+}
+.titulo{
+	padding-left: 50px;
+	width: 50%;
+}
+a{
+	text-decoration: none;
+}
+.rep{
+	padding: 5px 20px;
+	display: inline-flex;
+	color: black;
+	background-color:white;
+	font-weight: bold;
+	font-family: "Arial";
+	border-radius: 5px;
+}
+.info{
+	font-family: "Arial";
+	padding: 5px 20px;
+	display: inline-flex;
+	color: white;
+	background-color:#DCDCDC80 ;
+	font-weight: bold;
+	border-radius: 5px;
+}
+.top{
+	width: 30px;
+}
+.cartelera{
+	padding-left: 15px;
+	height: 160px;
+	width: 15.0%;
+}
+.sug{
+	position: absolute;
+	bottom: -170px;
+	width: 100%;
+}
+.pop{
+	padding-left: 15px;
+	color: white;
+	font-family: "Arial";
+	font-weight: bold;
+	font-size: 20px;
+	text-shadow: -2px -2px 1px #000;
+}
